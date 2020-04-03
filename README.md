@@ -1,4 +1,4 @@
-# Quiz 1 - Design de Soft
+# Quiz 1 - Design de Software
 Resolução do Quiz 1 de DeSoft
 
 Resolução feita por Davi Reis Vieira de Souza para ajudar na correção do Quiz.
